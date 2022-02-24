@@ -1,7 +1,10 @@
-# 1
-## Processo Zumbi
+# 1 - Processo Zumbi
 
 Um processo zumbi (ou zombie, chamado também de defunct) é um processo que finalizou a execução mas ainda possui uma entrada na tabela de processos, pois seu processo pai ainda não "tomou conhecimento" que ele terminou.
+
+## Exercício 
+
+"Usando um sistema UNIX ou Linux, escreva um programa em C que cria um processo filho que acaba se tornando um processo zumbi. Esse processo zumbi deve permanecer no sistema por pelo menos 10 segundos. Os estados do processo podem ser obtidos a partir do comando: ps - l"
 
 ## Como usar
 * Pré-Requisitos
