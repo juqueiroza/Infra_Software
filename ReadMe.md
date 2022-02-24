@@ -7,6 +7,20 @@ Um processo zumbi (ou zombie, chamado também de defunct) é um processo que fin
   * editor de codigo
   * C (linguagem)
   * SO Linux
-  * Makefile
+  * makefile
+
+Compilando no terminal (sem usar o makefile) 
+
+```bash
+
+1. gcc "nome do arq".c -o "nome do executavel"
+
+```
+```bash
+
+2. ./"nome do executavel"
+
+```
+
   
 
